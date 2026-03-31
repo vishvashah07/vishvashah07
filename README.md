@@ -1,5 +1,6 @@
 # 💫 About Me:
-data analysis ,mern,dashboard. Passionate about building meaningful tech. 🚀 Turning ideas into clean, efficient code. 🧠 Learning, creating, and contributing one commit at a time.
+AI | Data Analysis | Data Science | MERN.
+Passionate about building meaningful tech. 🚀 Turning ideas into clean, efficient code. 🧠 Learning, creating, and contributing one commit at a time.
 
 
 ## 🌐 Socials:

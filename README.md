@@ -79,31 +79,6 @@ I'm a developer with a passion for building clean, efficient, and impactful soft
 
 ---
 
-## 🚀 Featured Projects
-
-### 🕵️ Credit Card Fraud Detection
-End-to-end fraud detection pipeline built on the Kaggle credit card dataset — SQLite for data storage, XGBoost for classification, SHAP for model explainability, and a Streamlit dashboard for interactive exploration.
-`Python` `XGBoost` `SHAP` `SQLite` `Streamlit`
-
-### 📚 ExamPrep AI
-A RAG-powered study assistant that answers questions from course material using retrieval-augmented generation.
-`LangChain` `Pinecone` `FastAPI` `Google Gemini` `React`
-🔗 [github.com/vishvashah07/ExamPrep-AI](https://github.com/vishvashah07/ExamPrep-AI)
-
-### 📈 Customer Churn Prediction
-XGBoost-based churn prediction model with an interactive Streamlit dashboard, integrated with the Google Gemini API for AI-generated insights.
-`Python` `XGBoost` `Streamlit` `Google Gemini API`
-
-### 💬 ChatBot Pro
-A semantic NLP chatbot built with spaCy for language understanding and Flask for the backend.
-`Python` `spaCy` `Flask`
-
-### 🐳 Todo App — Docker & AWS Deployment
-A full-stack to-do app (React + Node.js/Express) built to demonstrate containerization and cloud deployment — Dockerized and deployed on an AWS EC2 instance.
-`React` `Node.js` `Express` `Docker` `AWS EC2`
-
----
-
 <div align="center">
 
 *"Turning ideas into clean, efficient code"*

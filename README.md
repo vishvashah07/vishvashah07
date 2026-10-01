@@ -16,12 +16,6 @@
 
 I'm a developer with a passion for building clean, efficient, and impactful software. My interests span across AI, data science, and full-stack web development — I enjoy working across the stack and exploring new technologies.
 
-- 🤖 Interested in **AI & Machine Learning** — building intelligent applications
-- 📊 Enjoy **Data Science** — finding patterns and telling stories with data
-- 🌐 Building with **MERN Stack** and **Python**
-- 🚀 Always learning, always shipping
-- 🧠 Believer in learning by doing
-
 ---
 
 ## 🛠️ Tech Stack
